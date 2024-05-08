@@ -1,3 +1,3 @@
 # qr-code-component
 First Frontend Challenge.
-<br>Vivek Anand
+<br>Vivek Anand (Vivek)
